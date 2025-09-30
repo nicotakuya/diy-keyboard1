@@ -10,7 +10,7 @@
 ・キーは57個。
 
 ## Files
-・KEYBOARD1.COMP : CARDLUS X用の基板のCADデータ。
+・KEYBOARD1.COMP : CADLUS X用の基板のCADデータ。
 
 ・diy_keyboard1_schematics.png : 回路図。
 
