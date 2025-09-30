@@ -7,13 +7,18 @@
 
 ・サイズは11×6cm。
 
-・低価格なAVRマイコンで動作します。
-
 ・キーは57個。
 
 ## Files
+・KEYBOARD1.COMP : CARDLUS X用の基板のCADデータ。
 
-2007年当時、AVR Studio 4+ WinAVRで開発していました。
+・diy_keyboard1_schematics.png : 回路図。
+
+・keyb.c : ソースコード。
+
+・nicokeyb.aps : プロジェクトファイル。2007年当時、AVR Studio 4+ WinAVRで開発していました。
+
+・program_fuse.bat : 書き込み用のバッチファイル。
 
 ## PS/2の通信タイミング
 
